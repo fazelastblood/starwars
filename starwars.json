@@ -14,7 +14,7 @@
                 "Solo: A Star Wars Story"
             ],
             "species": ["non-Taung Mandalorians"],
-            "vehical": [
+            "vehicle": [
                 "The Razor Crest, gunship"
             ],
             "starship": [
@@ -31,11 +31,106 @@
                 "Chapter 1: The Mandalorian"
             ],
             "species": ["unknown"],
-            "vehical": [
+            "vehicle": [
                 "unknown"
             ],
             "starship": [
                 "unknown"
+            ]
+        },
+        {
+            "name": "Boba Fett",
+            "height": "6 Feet",
+            "gender": "Male",
+            "homeworld": "Kamino",
+            "cardImage": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3N//AABEIAHgAXwMBIgACEQEDEQH/xAAbAAACAgMBAAAAAAAAAAAAAAAABgUHAQIDBP/EADkQAAIBAwMDAgMFBgUFAAAAAAECAwAEEQUSIQYxQRNRImFxBxQygZEjJEJSocEVYnLh8ZKiscLw/8QAGQEAAwEBAQAAAAAAAAAAAAAAAQIDAAQF/8QAIREAAwEAAgMAAgMAAAAAAAAAAAECEQMhEjFBBBMiMnH/2gAMAwEAAhEDEQA/ALGNHb/mg1hiK6mTOIu4Tcm3DgzBdxXnIFdiMjuaq27nurDXruSeaVTM0boWbPCxI/Hy+IirRQ8CkT0BkcDms+Kx3NB4U5pgmFkRiQrAle4B7VtUU3T1mmpT3aeqs0sm6XErAFtoUkYIx+GpRRtAHesmYzRQflRRMFFFFZmCofqrUbjR9HkvrVYmaN03rIpIKlgDjBHPNTFQ3WFubrpjU4lOCbdiD7Y5/tQr0YTOuFjXVAImEirHIGI8HlcH6bMflVjWp32sLD+JAf6VUOsXctzqEdzdRRxS3dtC8qKDhZHM+cee4A+mKtfRZPV0iyf+a3Q/9opI9AXs9tcjcxRy7HkQOq+qVY4+EHkn5V1yMHNJus6XNqPUyR+lJPbvJGZ9pAKRxqx2ckZDOy8ZwQpo3XiMlpC9T9aaytwV0hUt7bOFkkj3SSf5jngfTGfc+By0rqvqXgzSwzj2eEDP/TisfaLqmmQavFYrcoZLeNVkxE6EkKOSCB3HsTUl0lYi8iklgYOucfACdntx4+X0NaMfbOa3yJ9DToWtDUg0VxA1tdoAXibPY+Rnn2/UVLilO2N3/j0Us8rs6P6X7ThtvPHzpsByKZFoba7CiiiixgrjdwLc2s1u/wCGWNkP0IxXaisYqvrSzay12yidlk9S0hCSMSpJiLDBH55z8xVh9OxmPQrBGOSsCAn8qR/tMlEGt6XLMJDF6b4Mf4gMjsffO7/fsJzoPqC3v9OWzkljjuYeEid/iZCTt498DxmpyD6NhHeq/wCpZZ5OsdNs4ZAtvHue+Ib4tjkgHjnI2qR88Y809vcRJvDyxqUXcwZwMD3NJT27S2U9/vgeSa6beI5Q7lBxGzY7DA4B7fnS8jXQXqWkP9o0qm2dbj0LiIWkkiySxHc752h+TwcvGce5NbfZnf22jdAXL3jhEuZpXL7sFY8BAwOP5lIAHOe1Qn2mXg/wixjVhl/gHHJXO5uf9Sp/SpvSraKXpXRbK5iUQxwJchSuAWYE8+/fdj/MD3oQm2CrUx5HPoqeObXg9q95cW2dzPc55ORjuSc/M+5q1FpQ6ZCG4MMcEQHqiTcqYKgDtn2yO3/inCqpYwTbtaFBNasayO1MMZoJxRWrHvjv4B4rMwmfaPp1vf2cLNciG6jOYxgksvPHcY5xzz27Gl3Q+nrq00R72GIS390ybXkYZhQZAZeRknAPHPxdvFMOpdKanqfUcd399iS2cjcodi4AHJHAA/tUhpjpFqc9qi/s41WNMHjaqhQfzxnz3NcM1yVyPy6RephSs9ibrPTcd/Dc3Gr30oSAvK05Zpd6L3bDDOQBjgDkccVBw9J2y3Jfp3q21R8ZWKVzDIPkw8/pinbrS9httK1+3tnD77dPUKkZdpH9Nf8A2P0UHzS1Lc2+o6DDY29p+8xIse5Ywu0DBdu5JB2nP6/KulTpzVXid36a6guIYX1/p201qKEFY3s7swyckZOF+E9v5ffvXrvuorLTVto16V1OAWojjkTUC4HpquzCbRtP4Qct7duePNpF3e28sAiuJ7VoIjumhYjciKWAK5AYgLgZPIwKZdW6n1VlW5tme0Ey7Fs5URgkg2ltxK5IKyRkHjv4wcnxaF85paMWg6xp2s2CXOmSqYuxjGA0ZHgr4qSIz5qtdB1u5u9eFvLp9nFcruJubOLY4AzndgkMuR9KsSyuVuYBIARyQQfBFFUtxjz2tOxFZ8UVg9qYJmsAAD1HHnCj3Pv9Kye1cr2SO2sprmaRI4oIVZi5wOfH6n+lLbGkV+v9Ve16bvHt7hopxcfdyMcSAxuWU8Hvgr4Hz7UvdP6+kWj6lfajfo5h2GWQjbJuJPZcDc3cZXjOc4HNRmt6vIddku7q49eG3lZYw3KtM7seB5CoMe2UX+bJXtauWi0/TrE4/es3TRpGBxvYKG9wcFsfNaino7TzSVvTPql3e6mgeK1WD73c+p2IQMIkxnvjHb+I5qT0S1a6hmnthH6cRXfukUMcnjCk5PbxUVb3DyaTJauv7oIpbq4+YSPKp+bFf61I6FELae7kWUenbo24ja5xnhf9RYAD548V0L+PSOOl5Y2SYs3hvY4Tys2YjjHG4Fc/lnNe/X4Q1j6N1PEb+ORi6RAleVjTBOMZAiGfrWZdT1CGN5ImWFGUgLHGuUPcfFjcT4yT86iDq8t3Ix1FVaTaStwqYckDgNjhvAzjPz8UWtei6ksRpoMRteq7B1LkuWVvUbJKmMrgk547fp4pv6S1u01eNpbNiocAvC4w8T+xH9+xxUb9m1vDrFzd31zAjRW0irFKQQxlPPfPYKe3b4hSV9mmqXUvV6xXFxJLjMeWP4vHP+9Q5ZTuWvhfhbUPfpdYrYjIrUVtVhgqH1+bSlm0qHXAklvJchYY5FBQOSAGPHjd545NTB7UkfayzL0tiM4kaUFT9Mnt+VJy/wBQohOo9M1G51trC3hF8wuXd5hGnxuCBI4Y8gDcqkZP4cckGlnqJXu9ee9SOKKBI/QtShDqypkA58kgd/cflTT16zx6VZ6Xo8U41C8gSGRYwdzR8uU3ZySzElj8mzyaSNk1hd22maw6/coU2vb74w8ZI3cMQcckEj68ZqCxDW21h19e5XRJbOzb9tcyiBVH8e/C7ee2f7U2WV3LfGG0ZAvpsv7FUCBZO2SvuPn28YpN0c2891NJc3Ah0+1u48zkDnJO34RnPCk8VbehXsGsBHhudI1W4gbAZ4w0ikH8QwSR2znb7c10KyP621noiophPbj08srAeaibmMG5jt4sh3cICBnHPtVkL07blROdHGQ2/NvP+I9/wnaP1GKRurbbpbTbphfa3qGn3rMWWNTHNs9vhjGVH1NF30I/x60bOhrmzh6dsIrKPMaqWfdwfULfGT9Dn9BVU9MXQn+0Rrz7sLU3WqOTACTswfiGT83H6Viy6wm0a++59P6xLLpsCr6RmhAEhKgvlCMgbyx7g44zXbTbo33Xmn6wYBBbz3frTMM+mjsBu58ZK8Z5+tRqtw6nDmEy61HGa2rCnPHkdxWauTCoLqjpqx6jgRL4yoyKQjwsFK5/Kp2is1phMsOn0kmuOo7mWQ6lIZhbNcS5WGI7ljA8D4cfmT2pS6wZbLpzQo3jga6KSF5SFyX2knJ+cu5v+asqeKOyQRRbmBO4BsfPA/WkzqnT9IvBF9+iiJuDmIKMOfnkeB7ngZ9+K4rpKvE6Y4tnyK3jh2aJbQI8klwRJPJAq/CgLIgY4OSdu4c9ganentFt9Q0uK7niukltZfRjaCQIASm/4tynjn37A1vrHT9naxKljBsu+UQGUKdme/sTwQOefnUctxq2n2c9uJpo4ZsCRTCMEgBRjIznAHIouvF60PHC+RYmt/09mgX2q67o1z996k1GNIy49DLSB12g/iLgjB+tRH3S2e0MyAPJ93ilO5VOHbaH8fXg10097uwhuYIpEX1T8ZeNSckYOPavRpErNq0VnNMyRvbkRGJQNpReCT54B/PtQ/ZNvENf4vJwz5X6Inpxbefq6wVhHDEZ1+Encufbnxn9Kva2020/aQQyMqIeCpG0gNkce3I81SHUGhJpgCyAwKHAjlJ3bgTznHt/9mmzpOOKPVbO5JjYiWNA6sUD9snZ2Pf8WM5z7VZdHE6X0uCCP0owu4tjya6UDtRV/gArGcc0UVjC9qs+6V40KvKfc8RqfJ+XBwO55x5IgLmFHvEiRPUnfb6krDL/ACUeFAHOB/c5KK85d2eiupFjqiy1bTNcuHuQ0UVwAts8T5UxKNo2n35JPkE+2CYW2b05PVSMcbgp2DOCpU+PmaKK9FLOjx+RvybNVilglhlaAyQNJkiRTtfGCRng+MHB8muFjHcaf1Vpt3NBLFbzSgxFucpuxn6Z8miipUl7KRVN43ozfadaEdP2myM5iuwqYGf2bI23n5Y2/kD5FeXTWkxatHwxZWJ+hGM/0oopX7Dy/C78/SiiirjH/9k=",
+            "films": [
+                "Star Wars: Episode IV - A New Hope",
+                "The Empire Strikes Back",
+                "Return Of The Jedi",
+                "Star Wars: The Clone Wars",
+                "Star Wars Episode II: Attack of the Clones"
+            ],
+            "species": ["Mandalorian "],
+            "vehicle": [
+                "Slave I"
+            ],
+            "starship": [
+                "Slave I"
+            ]
+        },
+        {
+            "name": "IG-11",
+            "height": "6 Feet 4 Inches",
+            "gender": "Droid",
+            "homeworld": "Nevarro",
+            "cardImage": "data:image/jpeg;base64,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",
+            "films": [
+                "Chapter 1: The Mandalorian",
+                "The Mandalorian",
+                "Chapter 8: Redemption"
+            ],
+            "species": ["Droid"],
+            "vehicle": [
+                "unknown"
+            ],
+            "starship": [
+                "unknown"
+            ]
+        },
+        {
+            "name": "bo-katan kryze",
+            "height": "5 Feet 9 Inches",
+            "gender": "Female",
+            "homeworld": "Mandalore",
+            "cardImage": "data:image/jpeg;base64,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",
+            "films": [
+                "Chapter 1-2: The Mandalorian",
+                "Star Wars: The Clone Wars",
+                "Star Wars: The Rebels"
+            ],
+            "species": ["Mandalorian "],
+            "vehicle": [
+                "unknown"
+            ],
+            "starship": [
+                "unknown"
+            ]
+        },
+        {
+            "name": "Moff Gideon",
+            "height": "5 Feet 4 Inches",
+            "gender": "male",
+            "homeworld": "earth",
+            "cardImage": "data:image/jpeg;base64,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",
+            "films": [
+                "Chapter 1-2: The Mandalorian",
+                "Chapter 7: The Reckoning"
+            ],
+            "species": ["Human"],
+            "vehicle": [
+                "Big Ship/Not Confirmed"
+            ],
+            "starship": [
+                "Big Ship/Not Confirmed"
+            ]
+        },
+        {
+            "name": "Cara Dune",
+            "height": "5 Feet 8 Inches",
+            "gender": "female",
+            "homeworld": "Alderaan",
+            "cardImage": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3N//AABEIAHgAeAMBIgACEQEDEQH/xAAbAAABBQEBAAAAAAAAAAAAAAAFAAMEBgcCAf/EADkQAAIBAwMCBAMHAgQHAAAAAAECAwAEEQUSITFBBhNRYSJxkRQyQoGhscEj0QczUmIVJUNyssLh/8QAGAEAAwEBAAAAAAAAAAAAAAAAAAECAwT/xAAhEQACAgIDAAIDAAAAAAAAAAAAAQIRITEDEkETUSIyQv/aAAwDAQACEQMRAD8AotpcrbFg6b1JGRRUaxEVGw7CB0Iofp0AmnkDDIAp+fShg7eMilZoo4JI1oYJEiZHavRrqKoJKZ70FuNOYH8qjGzYU7CixjxHCD8W3HtTFx4liP8Alxk/lQIWbHvTsdoF+9RYqJTahNes2VCxjkKO9QbKPfO+c8cHHzopHCqouAO+fpUbTQYmlmYEgtke5qfR1gOwW8EIjVJSyJ/UJ6Y9vrVbvZGk1AyYzg5HI69q41HUJZWK7sc8haHZOc55p0F4C2og2mnxxHG6b4iaEKpLdvXmujI7KFZiQOmT0pKeCMZPb2pCbCOjIXuxgNkDO1evzH9qtOmWwAaRV+FuSyjHI9V7Gq/osWEklkiaWEKc7Pvp7irpaW8kVqAztPGc4deJB6c+tRLZcdEB7KRikkU4xuyxVfhf2Ydq9p4WrPf+fbPuaNdrSRnLKT2kQevqKVIYE0QL58vvijc0alaB6LtE8u47emKNyHC9afpfGvxB06KSahyxDFT51OehqJJwACK0QmiGy4rkjFPyDJ4pry2OckUMmqJMI3ow6nHA9681UJaWQ2H4m4HH611aOUilfGSoH70NEq3moRJcyiOFerE8CpQeDVto8s6eY52qemaZudNlhJx8WKujvaQ2pYODGF4I71XJrnzDlUCr23sATVDcEgEVK8Ec0lGDUy6j3ZdRj1FRVQk0jNqi1+GI2WIunDEgbwM49mX09xVwUxgQW12RDLITsUcgkdQGHGe9Vbw/auy2yOjxl93kXkf4Wx91h3Bq2rC1xN50EqyFovigU4SVum5D+Fh0IrOWy1ogXkL2d0l7PbjcqFUuUXAdeyuP2NKpVlD9ns1t4YpLaTBDWt+fvZJJ9j35pVNlpYK/pmkQyEmK8QlsYV1x+tSbi0exLxTDDL75FVqDWPsikW0ZZs8NMc/oKJ6bfT3trNNdSNJIXPxN+XHyrRofHJaQzcPIZDgkCo+5yfiJqTK43Go7MCaaCWxiRjng1yobrk16/wB7iut3GKZDHpWWKwdm6swAqPo1jPqGomK2QsQuXA44+faur0/8vGf9R/ajX+Gd8LDxFPDIoJuLYhc9mGD+2akaVuifqWjyaV4Sje6OZJrkhMjkJjp9aCzWUM9oN/3Adwx61cvFds9xo1s17fRRSF2eOA9dp7n6DtVKt5MKYAxYE5PFKLs1cVoHXcaIm1BgUPQeWzMRkCid4oBbPahE77iB2qkZTpGheDrhSFW0lyoAaW2kGCufxKe49jVmubDT75bnYg82TKTxISpLY6gdQcdxz86onhPxFpdpHFFqkUiyICgmRcgoezd+KsqxW93DZI15PdQfaAY7uIlWyv3UkI5H/d8qiSYrTJ11NYLYxafqsLvGsYjimXO9QSFHI5Oc9R9KVMXOnnWnguZZykJkUuv3HdVB6MOM7iOuDxXtQWZQTR7SGxYY9XNV80e0+G4ayURxkr1ByK3aszg6Z7K+ZCKaapyabNJgsign1kFLVtIu9K8v7ZC0fmfdJOc0JFOSbBh+9zXua8yobLV0JUxwlAiSli91bnYM/CcUNtbqXStTt7uEf1YHDkHv6j6cVcNPQWvhb7S4/q3Dtsz6DjI+ZqlSRu4Z5WG5hnBqUOWEjYbaXTfEuiG6ttQW3RfilCj4+/wms+1EQ2kj7JAQOhoLo929ndLHkqk+FkwcZHbP1rRtO8Dwapov2yZMSkllbPAA4xj61P6l/J2iZxKJ7rlEwg6sTiockQVsFhn2qxavZvZNJFwQuR8NV6Qksa1x4c7k28jZAHStD8B384tIrMxxm3UMfSQknPw9mHsazsgmrfo+qHTdIh8xYprVn/qQOvOc4yD2NTPQ4bLdYXyT6u9gkMgO0yeYmRtXOArDt3pUxpet2FxNvt5zKyjYVfAk2+hP4h6d6VY9TXsZZkZp8SN2LY/SmIU8yQL6nHzo1bW+nLbYv/OS42cFOme1dUYtnPKajsa0wGS/tUKkhpVGT861fxZbQalpcsEaK0qIGU9wwrNoLGI3Eb2soRywaNSevy96uel3T37Hdk5BWRfQ0+tbEpqWimDQtUY5NowH+5gP5qRB4Yv5pEQvbxlyFUGQE5NDtbN5YapcWsk0jbG+DLE5U8ijPgW2mm1O4vLjmKyhLZ7b24H7k/lUOkaptj/jOVLc2un2xJS2QRKq/iNCr3w9fadYpqFxt8xsFoSufLyeM1Z9BtFuL2bWbiPzmR/LtY+zORyfkK0fRtHIiaTUQHeUZZD3+fsOw/M89FCOCOXkp0YFpOmGfVUS93wqRuV5OA3fqeMVrEmvwadpNvp1mzXjJGAfLGASepJPv6Zp7xvFpej6Ld3FtaW4mRCqf0x95uB+poZaeRp+iW2I9948YLt/o4/en0t5I+TGCm60lzd3DNMiQludijp8zVXv7c20/luxJ2hvlmrpqUrzzpDb8STOEBI5yTVP1hll1O7eMkoJGC5PYcD9qbVDi7IBJHQ8VOtbkPaTW8inONwIGfnUHpmkrFWypxSGHNAijuLa5h3bJCwKydxSrjwmDca9bWWMrcyAH2A5P6A0qOyQ6Z5a2mnQkNcX+5uuI4m4/OiEN5pUEiuXnnAPxIYwAw9OTQQiuSQBQpNFPji9lgXXbKFt0VlIzDlWZwNv0Fdaf4pl04yGytIl3nJaRy3NBZ7SS2kEc0ErS8EoqnAyM8n+1dwzm3YM8dugH4Cm8n65/ihtsFGK0S9Uv7jU5/8AiN2qfAgXKrgNjoKt+lQHSvBkUZwt1qb+a+euD0/QfrVSW9k127tNPS3hgh80FhEgXI7k4q5a1JLLqVqIoJDbw4XOw7VAHr9Kif0VGrYZ0i7OkwosMCSoqjAbjmlfePryDMf2WAE9xKT/AOtBb3Uo0tyFYF8Y69KpeoXbtMGzlQc//atN+GLinssOqeJXv5B9stwbWKVXlXzM7yDwoOOOcE1YdY8SaXNoqT6bgRgbT/qB9D3/AIrMbmRrhIogSdzncF6nnNNyTSQzExkL+HaPiGPQ+tUpNEuKaoMrqaC/F2S39NWZB/vwcfrQKYKARGzY77h/NeM4OWQEDuuelNF896GxpUNsMKabp1yMn0prNSUiw+CnS31Ka8cf5UJCkdi3H96Ve+HW8mzlc4Bc9falSastOgVeWdxZ3DQXKMkinoaZZcg5rU/Gum282mh2U70fh+4HpWYzjazLjocUC8DEm+40q2mckkx45Ppx/FCJV56UdN5Zrp9lp8BdiIctIwwN5JJA9h0oNMuCRSWy201ZM8K3tvp+tRzXqs1uUZWCsVxkcHj3qx6Jq0cuuCNp5Ba3CtGfOuCwA9QD347VRZODRfw1qKafdCZYUeSPhRIMqQeo9jV+UYyWbOtRu3+0OFbKk/WoM0u8VJ1eWOW8ZoSfLPKg9VHofl0oeW28g89qKAk2S5uNrNtKgsWzwgx+9eXUca8LJuHuatP+FNjDe67dS3UKypBbk4cZG5jjP71addtbISNi3iUegXFQ506NocPaNmQN8J3Kelc788sPpVxvbWzYnMEZ/Kgl1YW5JKAofY8U+wnxNAjKk8muGxzg5ruaPy2K5Bry3jMkyKO7AUyKD9uPJ05FPXbmvKZ1Gc/5YPwrwKVAzXPEtuJtFuR1wM1jV+vlzuuPzNKlUrZX8h+wt59R8ISrZ2MR+xyFnmBAcHGT8+P2qtSyS5O/gj14pUqfpFjDZZvnRe3uba0geAxCXevU9c9x/I96VKrRMgeWLHkk+hPU1w5yehBpUqGBpf8AhLAIdK1S+P8A1JFiB9lBJ/8AKu9cui8jc+te0q5tzO/jVcaK1cPnJoReS7QxpUq0RE9AUncxJqVZALMshH3Bn86VKrOUcuWyetKlSoCz/9k=",
+            "films": [
+                "Chapter 1-2: The Mandalorian",
+                "Chapter 4: Sanctuary"
+            ],
+            "species": ["Human"],
+            "vehicle": [
+                "Not Confirmed"
+            ],
+            "starship": [
+                "Not Confirmed"
             ]
         }
     ]
