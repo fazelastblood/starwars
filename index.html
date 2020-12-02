@@ -13,7 +13,7 @@
 
     <button type="button" id="button" name="button">Find Someone</button>
     <script>
-                fetch('https://raw.githubusercontent.com/akabab/starwars-api/master/api/all.json')
+                fetch('starwars.json')
                 .then((response)=> response.json())
                 .then((data)=>{
                     for(let t of data) {
