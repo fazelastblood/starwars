@@ -13,15 +13,14 @@
 
     <button type="button" id="button" name="button">Find Someone</button>
     <script>
-                fetch('starwars.json')
-                .then((response)=> response.json())
-                .then((data)=>{
-                    for(let t of data) {
-
-                        console.log(t);
-                    }
-
-})
+               fetch('starwars.json').then(function (response) {
+                   return response.json();
+               }).then(function (obj) {
+                   console.log(obj);
+               }).catch(function (error) {
+                   console.log('something went wrong');
+                   console.error(error);
+               });
 
     </script>
 </body>
