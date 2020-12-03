@@ -1,6 +1,7 @@
 {
     "people": [
         {
+            "cardprice": "30 Credits",
             "name": "Mandalorian",
             "height": "6 Feet 5 Inches",
             "id": "111",
@@ -22,6 +23,7 @@
             ]
         },
         {
+            "cardprice": "100 Credits",
             "name": "Grogu",
             "height": "1 Foot 4 Inches",
             "id": "121",
@@ -39,6 +41,7 @@
             ]
         },
         {
+            "cardprice": "1 Credits",
             "name": "Boba Fett",
             "height": "6 Feet",
             "id": "131",
@@ -60,6 +63,7 @@
             ]
         },
         {
+            "cardprice": "15 Credits",
             "name": "IG-11",
             "height": "6 Feet 4 Inches",
             "id": "141",
@@ -79,6 +83,7 @@
             ]
         },
         {
+            "cardprice": "15 Credits",
             "name": "bo-katan kryze",
             "height": "5 Feet 9 Inches",
             "id": "151",
@@ -98,6 +103,7 @@
             ]
         },
         {
+            "cardprice": "5 Credits",
             "name": "Moff Gideon",
             "height": "5 Feet 4 Inches",
             "id": "161",
@@ -116,6 +122,7 @@
             ]
         },
         {
+            "cardprice": "3 Credits",
             "name": "Cara Dune",
             "height": "5 Feet 8 Inches",
             "id": "171",
