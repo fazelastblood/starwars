@@ -176,6 +176,30 @@
             "starship": [
                 "First Order Ships"
             ]
+        },
+        {
+            "cardprice": "153 Credits",
+            "name": "Darth Vader",
+            "height": "6 Feet 2 Inches",
+            "id": "1101",
+            "homeworld": "Kamino",
+            "cardImage": "https://upload.wikimedia.org/wikipedia/en/thumb/7/76/Darth_Vader.jpg/220px-Darth_Vader.jpg",
+            "films": [
+                "Star Wars (1977)",
+                "Star Wars: Episode IV - A New Hope",
+                "Star Wars: The Clone Wars",
+                "Star Wars: The Phantom Menace",
+                "Star Wars: Episode III - Revenge of the Sith",
+                "Return Of The Jedi",
+                "Rogue One: A Star Wars Story"
+            ],
+            "species": ["Human"],
+            "vehicle": [
+                "Darth Vader's TIE Fighter"
+            ],
+            "starship": [
+                "Delta-7 Jedi Star Fighter"
+            ]
         }
     ]
 }
