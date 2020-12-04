@@ -200,6 +200,46 @@
             "starship": [
                 "Delta-7 Jedi Star Fighter"
             ]
+        },
+        {
+            "cardprice": "68 Credits",
+            "name": "Kylo Ren",
+            "height": "6 Feet 3 Inches",
+            "id": "1111",
+            "homeworld": "Kamino",
+            "cardImage": "https://upload.wikimedia.org/wikipedia/en/thumb/3/34/Kylo_Ren.png/220px-Kylo_Ren.png",
+            "films": [
+                "Star Wars (1977)",
+                "Star Wars: Episode IV - A New Hope",
+                "Star Wars: The Clone Wars",
+                "The Force Awakens"
+            ],
+            "species": ["Human"],
+            "vehicle": [
+                "Tie Silencer"
+            ],
+            "starship": [
+                "TIE/vn space superiority fighter"
+            ]
+        },
+        {
+            "cardprice": "50 Credits",
+            "name": "Firht-Order",
+            "height": "6 Feet 0 Inches",
+            "id": "1121",
+            "homeworld": "Kamino",
+            "cardImage": "https://upload.wikimedia.org/wikipedia/en/thumb/5/51/Stormtrooper_%28Star_Wars%29.png/220px-Stormtrooper_%28Star_Wars%29.png",
+            "films": [
+                "Chapter 1-2: The Mandalorian",
+                "All Star Wars"
+            ],
+            "species": ["Human"],
+            "vehicle": [
+                "Sith Speeder"
+            ],
+            "starship": [
+                "TIE/vn space superiority fighter"
+            ]
         }
     ]
 }
